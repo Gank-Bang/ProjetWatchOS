@@ -16,6 +16,7 @@
 		BB3B2C9C2B920D7C00C70533 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3B2C9B2B920D7C00C70533 /* ContentView.swift */; };
 		BB3B2C9E2B920D7D00C70533 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB3B2C9D2B920D7D00C70533 /* Assets.xcassets */; };
 		BB3B2CA12B920D7D00C70533 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB3B2CA02B920D7D00C70533 /* Preview Assets.xcassets */; };
+		BB3B2CAE2B9210BA00C70533 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3B2CAB2B9210B100C70533 /* WeatherModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		BB3B2C9B2B920D7C00C70533 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BB3B2C9D2B920D7D00C70533 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB3B2CA02B920D7D00C70533 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BB3B2CAB2B9210B100C70533 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			children = (
 				BB3B2C992B920D7C00C70533 /* ProjetWatchOsApp.swift */,
 				BB3B2C9B2B920D7C00C70533 /* ContentView.swift */,
+				BB3B2CAB2B9210B100C70533 /* WeatherModel.swift */,
 				BB3B2C9D2B920D7D00C70533 /* Assets.xcassets */,
 				BB3B2C9F2B920D7D00C70533 /* Preview Content */,
 			);
@@ -241,6 +244,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB3B2C9C2B920D7C00C70533 /* ContentView.swift in Sources */,
+				BB3B2CAE2B9210BA00C70533 /* WeatherModel.swift in Sources */,
 				BB3B2C9A2B920D7C00C70533 /* ProjetWatchOsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
